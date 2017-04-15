@@ -1,3 +1,9 @@
+/**
+ * Desarrolle una función que recibe un arreglo con temperaturas en celsius y retorna un arreglo con
+ * las temperaturas en grados Farenheit
+ * Utiliza el método map()
+ */
+
 var tempCelsius = [0, 15, 30, 28];
 
 function transformar(celsiusArray) {
